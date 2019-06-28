@@ -26,21 +26,21 @@ We will capture the output to a file(stats-experiment-1.txt, stats-experiment-2.
 We will be creating a series of datasets with a specified 𝑛×𝑝 size, where 𝑛 is the number of samples and 𝑝 is the number of features. To create these datasets we will use the make_classification function from the sklearn.datasets module.
 
 dataset 	Shape of Feature Set
-1 	      100×20
-2 	      193×32
-3 	      373×54
-4 	      720×88
-5 	      1389×144
-6 	      2683×236
-7 	      5179×386
-8 	      10000×632
-9 	      19307×1036
-10 	      37276×1697
-11 	      71967×2779
-12 	      138950×4552
-13 	      268370×7455
-14 	      517947×12211
-15 	      1000000×20000
+1. 	      100×20
+2. 	      193×32
+3. 	      373×54
+4. 	      720×88
+5. 	      1389×144
+6. 	      2683×236
+7. 	      5179×386
+8. 	      10000×632
+9. 	      19307×1036
+10. 	      37276×1697
+11. 	      71967×2779
+12. 	      138950×4552
+13. 	      268370×7455
+14. 	      517947×12211
+15. 	      1000000×20000
 
 ### Experimental Process
 
